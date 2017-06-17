@@ -1,0 +1,2 @@
+# raspberry-smart-mplayer
+bluetooth
